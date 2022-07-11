@@ -32,7 +32,7 @@ except ImportError:
 
 # Use cityname, country code where countrycode is ISO3166 format.
 #   e.g. "New York, US" or "London, GB"
-LOCATION = "LosAngels, CA, US"
+LOCATION = "LosAngeles, CA, US"
 
 UNITS = "imperial"  # Standard(SI units is default), imperial, or metric
 
